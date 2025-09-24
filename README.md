@@ -26,7 +26,6 @@
 ### 🚀 Projekte (kurz & messbar)
 - **A desktop client** for exploring a local movies database with quick/advanced search, analytics, favorites and a clean dark UI. Uses MySQL for primary data and MongoDB for app logs. Posters are loaded via TMDB API. → 👉 <img src="screenshots/03_genres-years_tab.png" width="100%">
 - **Aktuelle IT‑Stellenanzeigen** für Deutschland sammeln, bereinigen und auswerten — das Ergebnis als interaktives Power‑BI‑Dashboard darstellen. → 👉 [Link](https://github.com/DmtiriyK/Jobs_Analyz_DA/blob/4132974cbf913c1e30b32173e4b75377af3776d8/dashboards/screenshots/image.png)
-- **Data Quality Toolkit** · Python + Pandas · Profiling, Validierungen, Auto-Report (PDF per Mail). → 👉 <img width="1167" height="984" alt="image" src="https://github.com/user-attachments/assets/17e52637-dec5-45d7-9356-3fb11563732c" />
 
 
 > Formel „Problem → Vorgehen → Zahl“. Eine Zahl pro Projekt spart Recruitern Nerven.
