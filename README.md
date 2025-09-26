@@ -1,35 +1,22 @@
 <h1 align="center">Имя Фамилия</h1>
-<p align="center">Data Analytics · BI · SQL · Python · Power BI · Tableau</p>
+<p align="center">From messy CSV to clean decisions · Analytics / BI</p>
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="MAILTO"><img src="https://img.shields.io/badge/Email-181717?logo=minutemailer&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Location-Germany-2F855A">
-  <img src="https://img.shields.io/badge/Open_to_work-yes-805AD5">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">
 </p>
 
-### О себе
-Преобразую сырые данные в решения: SQL для извлечения, Python для обработки, BI-дашборды для принятия решений. Люблю метрики, аккуратные модели и понятные графики.
+### Featured
+- 🎯 **DE Jobs Radar** — интерактивная карта спроса по скиллам и регионам.  
+- 🎬 **Movie Explorer** — десктоп-клиент с избранным и быстрой статистикой.  
+- 🧠 **Mental Health EDA** — аккуратная аналитика опросов.
 
-### Техстек
-Python · SQL · Power BI · Tableau · Pandas · Plotly · Git · REST APIs · MySQL · MongoDB
+### What I use
+SQL для витрин, Python для пайплайнов, Power BI/Tableau для историй с данными.
 
-### Проекты (коротко и по делу)
-- **Movie Explorer (desktop)** → локальная база фильмов, TMDB API, MySQL+MongoDB.  
-  *Результат:* быстрый поиск, избранное, аналитика по жанрам.
-- **DE Job Scraper → Power BI** → сбор вакансий по DE, чистка, кластеризация и витрина.  
-  *Результат:* интерактивный дашборд, N вакансий/день, топ-скиллы по регионам.
-- **Mental Health Survey** → чистка, EDA, гиптесты, визуализация.  
-  *Результат:* X факторов риска, рекомендации для HR.
-
-### Как работаю
-Problem → Data → Cleaning → Modeling/EDA → Visualization → Decision/Metric
-
-### Любимые визуализации
-Top-N · Cohorts · KPI Tiles (YoY/DoD) · Funnels · Highlight Tables · без 3D-тортов
-
-### Языки
-DE B1–B2 · EN A2–B1 (в прогрессе) · RU Native
-
----
-
+### Quick links
+[Dashboards] · [Case studies] · [CV] · [LinkedIn] · [Email]
