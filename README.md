@@ -10,5 +10,11 @@ Ich mache aus chaotischen Daten brauchbare Antworten. <br>Studium und Praxis lau
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DmtiriyK&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+- name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
