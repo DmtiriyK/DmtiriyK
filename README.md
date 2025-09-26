@@ -1,25 +1,21 @@
-<h1 align="center">Имя Фамилия</h1>
-<p align="center">From messy CSV to clean decisions · Analytics / BI</p>
+# 💫 About Me:
+Ich mache aus chaotischen Daten brauchbare Antworten. <br>Studium und Praxis laufen parallel.<br>LinkedIn-Analyse im Praktikum hat mir Ruhm und zu viele Fragen eingebracht. <br>Jetzt arbeite ich im Startup an PTBS, Depression und Angst und übersetze Neurobiologie und KI in klare Metriken. <br>Seit der Kindheit technikverliebt, aber teamfähig. <br>Je mehr Ambiguität, desto interessanter.<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">
-</p>
 
-### Featured
-- 🎯 **DE Jobs Radar** — интерактивная карта спроса по скиллам и регионам.  
-- 🎬 **Movie Explorer** — десктоп-клиент с избранным и быстрой статистикой.  
-- 🧠 **Mental Health EDA** — аккуратная аналитика опросов.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dmitriy-k%C3%B6nig-18564131a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenih.demon1@gmail.com) 
 
-### What I use
-SQL для витрин, Python для пайплайнов, Power BI/Tableau для историй с данными.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DmtiriyK&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DmtiriyK&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmtiriyK&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Quick links
-[Dashboards] · [Case studies] · [CV] · [LinkedIn] · [Email]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DmtiriyK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
