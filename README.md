@@ -1,3 +1,10 @@
+<h1 align="center">Dmitriy König</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=600&lines=Full-Stack+%2F+Platform+Engineer;Production+Systems+Builder;Docker+%7C+Nginx+%7C+CI%2FCD;Auth+%26+Payment+Integrations" />
+  </a>
+</p>
 # 💫 About Me:
 Ich mache aus chaotischen Daten brauchbare Antworten. <br>Studium und Praxis laufen parallel.<br>LinkedIn-Analyse im Praktikum hat mir Ruhm und zu viele Fragen eingebracht. <br>Jetzt arbeite ich im Startup an PTBS, Depression und Angst und übersetze Neurobiologie und KI in klare Metriken. <br>Seit der Kindheit technikverliebt, aber teamfähig. <br>Je mehr Ambiguität, desto interessanter.<br>
 
