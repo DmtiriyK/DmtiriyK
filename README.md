@@ -33,6 +33,7 @@
 > focus............ architecture · auth · payments · CI/CD
 > objective........ build systems that survive load & time
 ▓▓ ABOUT
+```
 
 I build and stabilize real production systems end-to-end:
 
