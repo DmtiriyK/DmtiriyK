@@ -22,6 +22,7 @@ stack:
   backend: Java / C# / REST
   platform: Docker / Linux / Nginx
   data: PostgreSQL / Python
+```
 
 
 ## 🌐 Socials:
