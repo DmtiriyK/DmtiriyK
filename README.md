@@ -84,7 +84,7 @@ NeoXonline work (production startup system):
 
 GitHub widgets sometimes hit rate limits. If a card fails to load, it's not your browser. It's the internet being the internet.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DmtriyK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmtiriyK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DmtiriyK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmtiriyK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" /> </p>
 ▓▓ ACTIVITY ANIMATION (OPTIONAL, BUT CYBER)
 Snake (GitHub Actions)
 
