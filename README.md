@@ -84,13 +84,13 @@ NeoXonline work (production startup system):
 
 GitHub widgets sometimes hit rate limits. If a card fails to load, it's not your browser. It's the internet being the internet.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DmtriyK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmtriyK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DmtriyK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmtiriyK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" /> </p>
 ▓▓ ACTIVITY ANIMATION (OPTIONAL, BUT CYBER)
 Snake (GitHub Actions)
 
 After you add the workflow below, this will render:
 
-<p align="center"> <img src="https://github.com/DmtriyK/DmtriyK/blob/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
+<p align="center"> <img src="https://github.com/DmtiriyK/DmtiriyK/blob/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
 
 Workflow to enable it (create file: .github/workflows/snake.yml):
 
@@ -108,7 +108,7 @@ jobs:
       - name: generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: DmtriyK
+          github_user_name: DmtiriyK
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
