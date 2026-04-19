@@ -88,7 +88,7 @@ GitHub widgets sometimes hit rate limits. If a card fails to load, it's not your
 ▓▓ ACTIVITY ANIMATION (OPTIONAL, BUT CYBER)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Dmtiriyk/Dmtiriyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ▓▓ CONTACT / WORK MODE
